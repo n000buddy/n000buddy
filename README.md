@@ -3,15 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Ocean!&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+MR+N000buddy;A+coding+shark+%F0%9F%A6%88;Welcome+to+my+ocean+of+code)
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+MR+N000buddy;A+coding+shark+%F0%9F%A6%88;Welcome+to+my+ocean+of+code)
-
-
-
-### Stats
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+MR+N000buddy;A+coding+shark+%F0%9F%A6%88;Welcome+to+my+ocean+of+code)
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -22,7 +14,6 @@
   </a>  
 </p>
 
-
 ### Some Tools I Have Used and Learned
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +21,6 @@
   </a>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+MR+N000buddy;A+coding+shark+%F0%9F%A6%88;Welcome+to+my+ocean+of+code)
 
 
 
