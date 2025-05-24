@@ -1,4 +1,7 @@
 ## Hi there 👋
+Hello 🙌🏻
+
+My name MR N000buddy. As you can see I am a shark 🦈 who likes programming and publishes my work here
 
 ### Skills
 <p align="center">
