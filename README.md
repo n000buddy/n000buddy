@@ -17,6 +17,6 @@ My name MR N000buddy. As you can see I am a shark 🦈 who likes programming and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,docker,cs,rider,arduino,css,dotnet,github,html,kali,linux,notion,postman,sqlite,swift,azure,git,visualstudio,vscode,wordpress,powershell&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,docker,azure,rider,visualstudio,vscode,arduino,cs,swift,html,css,dotnet,github,git,notion,postman,sqlite,wordpress,powershell&perline=8" />
   </a>
 </p>
