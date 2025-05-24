@@ -1,9 +1,11 @@
-## Hi there 👋
-Hello 🙌🏻
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 My name MR N000buddy. As you can see I am a shark 🦈 who likes programming and publishes my work here
 
-### Skills
+### Stats
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -15,9 +17,11 @@ My name MR N000buddy. As you can see I am a shark 🦈 who likes programming and
 </p>
 
 
-
+### Some Tools I Have Used and Learned
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,windows,linux,docker,azure,rider,visualstudio,vscode,arduino,cs,swift,html,css,dotnet,github,git,notion,postman,sqlite,wordpress,powershell&perline=8" />
   </a>
 </p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
