@@ -17,7 +17,7 @@
 ### Some Tools I Have Used and Learned
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,linux,docker,azure,rider,visualstudio,vscode,arduino,cs,swift,html,css,dotnet,github,git,notion,postman,sqlite,wordpress,powershell&perline=8" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,docker,azure,rider,visualstudio,vscode,ardunio,cs,swift,html,css,dotnet,github,git,sqlite,wordpress,powershell&perline=8" />
   </a>
 </p>
 
